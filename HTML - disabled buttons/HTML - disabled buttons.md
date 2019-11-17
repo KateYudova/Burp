@@ -6,4 +6,4 @@
 5) Теперь вводим любой текст в поле и нажимаем на кнопку, которая нам теперь доступна
 ![](ссылка на ресурс)
 6) Получаем пароль HTMLCantStopYou и вводим его
-![](https://github.com/KateYudova/Burp/blob/master/HTML%20-%20disabled%20buttons/IbMmFtON33Q.jpg)
+![](IbMmFtON33Q.jpg)
