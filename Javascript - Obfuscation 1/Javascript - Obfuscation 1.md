@@ -4,5 +4,5 @@
 ![](I1GB2blmoWQ.jpg)
 3) Открываем код страницы, находим скрипт и пытаемся понять, что же нам нужно
 ![](JOZG3VCOv_g.jpg)
-4) Строку pass надо раскодировать как URL и получаем "cpasbiendurpassword"
+4) Строку pass надо раскодировать как URL, т.к. там есть метод unescape() и получаем "cpasbiendurpassword"
 ![](eYi0fQfB3vE.jpg)
